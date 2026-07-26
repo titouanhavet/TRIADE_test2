@@ -13,7 +13,7 @@ nav{
   padding:18px 32px; border-bottom:1px solid #eee;
   position:sticky; top:0; background:#fff; z-index:10;
 }
-.logo{ font-weight:100; letter-spacing:2px; color:var(--forest); font-size:1.1rem; text-decoration:none; }
+.logo{ font-weight:100; letter-spacing:2px; color:var(--forest); font-size:0.5rem; text-decoration:none; }
 .navlinks{ display:flex; gap:26px; font-size:0.85rem; }
 .navlinks a{ color:#555; text-decoration:none; }
 .navlinks a.active{ color:var(--terracotta); font-weight:700; }
