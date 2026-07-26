@@ -13,9 +13,9 @@ nav{
   padding:18px 32px; border-bottom:1px solid #eee;
   position:sticky; top:0; background:#fff; z-index:10;
 }
-.logo img{ height:10px; width:auto; display:block; }
+.logo img{ height:19px; width:auto; display:block; }
 .logo{ display:flex; align-items:center; gap:8px; }
-.logo img{ height:90px; width:auto; display:block; }
+.logo img{ height:19px; width:auto; display:block; }
 .navlinks{ display:flex; gap:26px; font-size:0.85rem; }
 .navlinks a{ color:#555; text-decoration:none; }
 .navlinks a.active{ color:var(--terracotta); font-weight:700; }
